@@ -40,7 +40,7 @@ function setup(){
     log6 = new Log(230,180,80, PI/2);
     Slingshot= new Slingshot(bird.body,log6.body);
 }
-
+//hiiiiii
 function draw(){
     background(backgroundImg);
     Engine.update(engine);
